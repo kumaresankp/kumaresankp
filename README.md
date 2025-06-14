@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Kumaresan  
 
-Tech Enthusiast | Founder of internIQ | Content Creator 🎥  
+Content Creator on "Programming with Kumaresan"🎥  
 
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 
