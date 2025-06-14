@@ -6,7 +6,6 @@ Content Creator on "Programming with Kumaresan"🎥
 
 - 🔭 Check out my [portfolio](https://kumaresan.interniq.tech/)  
 - 🌱 I’m currently working on AI integrations, Online IDE, and LMS development  
-- 🚀 Founder of [internIQ](https://kumaresan.interniq.tech/) - an LMS platform for learning & internships  
 - 🎥 I create tech tutorials on [YouTube](https://www.youtube.com/@ProgrammingwithKumaresan)  
   <p align="left">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCRRty8f2l3sZ411uKi2DnLQ?style=for-the-badge" alt="YouTube Subscribers">
