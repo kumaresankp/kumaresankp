@@ -47,10 +47,17 @@ Content Creator on "Programming with Kumaresan"🎥
   <img height="50" src="https://img.icons8.com/color/48/000000/firebase.png"/>
 </p>
 
-### 💻 Workspace Setup  
-![OS](https://img.shields.io/badge/OS-Ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=white)  
-![CPU](https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)  
-![GPU](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
+### 💻 Workspace Setup
+
+- **Operating System**: Windows 11  
+  ![OS](https://img.shields.io/badge/OS-Windows_11-blue?style=for-the-badge&logo=windows&logoColor=white)
+
+- **Processor**: AMD Ryzen 5 5600H  
+  ![CPU](https://img.shields.io/badge/AMD-Ryzen_5_5600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+
+- **Graphics**: AMD Radeon RX 6500M  
+  ![GPU](https://img.shields.io/badge/AMD-Radeon_RX_6500M-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+  
 
 ### 📈 My GitHub Activity  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kumaresankp&bg_color=150a10&color=ffffff&line=f5f5f5&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
