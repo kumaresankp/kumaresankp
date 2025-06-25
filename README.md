@@ -4,9 +4,9 @@ Content Creator on "Programming with Kumaresan"🎥
 
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 
-- 🔭 Check out my [portfolio](https://kumaresan.interniq.tech/)  
+- 🔭 Check out my [portfolio](https://kumaresankp.pythonanywhere.com/)  
 - 🌱 I’m currently working on AI integrations, Online IDE, and LMS development  
-- 🎥 I create tech tutorials on [YouTube](https://www.youtube.com/@ProgrammingwithKumaresan)  
+- 🎥 I create tech tutorials on [YouTube](https://www.youtube.com/@kumaresankp)  
   <p align="left">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCRRty8f2l3sZ411uKi2DnLQ?style=for-the-badge" alt="YouTube Subscribers">
     &nbsp;&nbsp;&nbsp;
@@ -15,9 +15,9 @@ Content Creator on "Programming with Kumaresan"🎥
 - ⚡ Fun fact: I love simplifying complex tech topics on my youtube channel
 
 ### 🚀 Social Presence  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumaresankp)  
-- [![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kumaresan21)  
-- [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kumaresankp18)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumaresankp21)  
+- [![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/programmingwithkumaresan18)  
+- [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kumaresankp)  
 - [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61563662246215)  
 
 
