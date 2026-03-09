@@ -4,7 +4,7 @@ Content Creator on "Programming with Kumaresan"🎥
 
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 
-- 🔭 Check out my [portfolio](https://kumaresankp.pythonanywhere.com/)  
+<!-- - 🔭 Check out my [portfolio](https://kumaresankp.pythonanywhere.com/)-->
 - 🌱 I’m currently working on AI integrations, Online IDE, and LMS development  
 - 🎥 I create tech tutorials on [YouTube](https://www.youtube.com/@kumaresankp)  
   <p align="left">
